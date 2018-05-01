@@ -8,6 +8,7 @@ Homestead.json
 .env
 ~$*.xls*
 ~$*.doc*
+~$*.pdf*
 
 
 # IDE Helper.
