@@ -1,0 +1,21 @@
+# Laravel defaults.
+/vendor
+/node_modules
+/public/storage
+config/mail.php
+Homestead.yaml
+Homestead.json
+.env
+~$*.xls*
+~$*.doc*
+
+
+# IDE Helper.
+_ide_helper.php
+.phpstorm.meta.php
+
+# PHPStorm crap.
+.idea
+
+# Little todo file for notes.
+tod
